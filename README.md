@@ -1,9 +1,9 @@
 ﻿# SuperHero Hunter- Mohit Goyal- Coding Ninjas <br>
 ## Links: <br>
-Online Working Project - https://superhero.mohitgoyal.me/<br>
+Online Working Project - https://superhero.mohitgoyal.in/<br>
 Video Explanation Link  - https://youtu.be/hmVysWDTqz0 <br>
-GitHub Repo Link - https://github.com/Mohit1108/superhero.mohitgoyal.me/ <br>
-GitHub Repo Link - https://mohitgoyal.me/ <br>
+GitHub Repo Link - https://github.com/Mohit1108/superhero.mohitgoyal.in/ <br>
+GitHub Repo Link - https://mohitgoyal.in/ <br>
 
 ## Screenshots <br>
 ## Preview - Home <br>

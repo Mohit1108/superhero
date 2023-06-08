@@ -2,7 +2,7 @@
 ## Links: <br>
 Video Explanation Link  - https://youtu.be/hmVysWDTqz0 <br>
 GitHub Repo Link - https://github.com/Mohit1108/superhero.mohitgoyal.in/ <br>
-GitHub Repo Link - https://mohitgoyal.in/ <br>
+Live Link - [https://mohitgoyal.in](https://superhero-mohit.netlify.app/)/ <br>
 
 ## Screenshots <br>
 ## Preview - Home <br>
